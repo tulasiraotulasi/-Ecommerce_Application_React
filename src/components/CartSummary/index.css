@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.totalOrdervalue {
+  color: #616e7c;
+  align-self: flex-end;
+}
+.span {
+  font-size: x-large;
+  font-weight: bold;
+  color: #000000;
+}
+.orderPara {
+  font-weight: bold;
+  font-size: large;
+}
